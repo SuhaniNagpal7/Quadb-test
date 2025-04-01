@@ -2,6 +2,11 @@
 
 A full-stack blockchain simulation application with a modern web interface.
 
+<img width="1470" alt="Screenshot 2025-04-02 at 12 27 33 AM" src="https://github.com/user-attachments/assets/088c8423-62e8-4390-bfb8-45ff902cf63b" />
+
+<img width="1470" alt="Screenshot 2025-04-02 at 12 27 41 AM" src="https://github.com/user-attachments/assets/8998feae-86d9-4b66-a1a2-474df0a933de" />
+
+
 ## Features
 
 - Block creation with index, timestamp, transactions, and hashes
