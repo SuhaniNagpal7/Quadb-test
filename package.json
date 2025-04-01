@@ -1,0 +1,13 @@
+{
+  "name": "blockchain-simulation",
+  "version": "1.0.0",
+  "description": "A simple blockchain simulation in JavaScript",
+  "main": "blockchain.js",
+  "scripts": {
+    "start": "node blockchain.js",
+    "test": "node test_blockchain.js"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+} 
